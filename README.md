@@ -1,4 +1,3 @@
-# Excel
 # Excel Data Analytics Portfolio
 
 ---
