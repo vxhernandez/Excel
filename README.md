@@ -1,8 +1,8 @@
-# Excel Data Analytics Portfolio
+# Excel Data Analytics Project
 
 ---
 
-Welcome to my Excel Data Analytics Portfolio! This repository features a selection of projects that demonstrate my expertise in data analysis, visualization, and reporting using Excel and other tools like Tableau. 
+Welcome to my Excel Data Analytics Project! This repository features a selection of projects that demonstrate my expertise in data analysis, visualization, and reporting using Excel and other tools like Tableau. 
 
 Explore each project below to see my approach to handling diverse data challenges and presenting findings in a way that’s both insightful and visually engaging.
 
