@@ -6,10 +6,11 @@ This repository features a selection of projects in data analysis, visualization
 
 ## Projects
 
-### **Data Cleaning with Excel**
+### **New York Housing Data Transformation**
 
-- **Description:** Using a dataset from Kaggle, I performed comprehensive data cleaning steps to prepare it for meaningful analysis. This project emphasizes the critical foundational work necessary for reliable data analysis.
+- **Description:** Using a dataset from Kaggle, I performed comprehensive data cleaning steps in Excel and then in SQL Server to prepare it for meaningful analysis. This project emphasizes the critical foundational work necessary for reliable data analysis.
 - **Skills Demonstrated:** Data cleaning, transformation, formatting, and preparation for analysis.
+- 
 
 ### **Superstore Time-Series Analysis with Interactive Visualization**
 
