@@ -21,15 +21,15 @@ The primary goal was to identify sales patterns, high-performing products, and c
 - Liberica coffee sales spiked during winter (2021-2022), highlighting a seasonal trend.
 - Light and medium roasts outperformed dark roasts among the top five customers, suggesting a preference for these flavors.
 
-### **Tools & Techniques Used**
+### **Process**
 
-- Data Cleaning & Transformation
-    - Standardized date formats, categorized weekday/weekend sales, and enriched dataset with additional insights using Excel formulas (IF, XLOOKUP, INDEX/MATCH).
+- Data Cleaning and Transformation
+    - Standardized date formats, categorized weekday/weekend sales, and added additional data columns using IF, XLOOKUP, INDEX/MATCH.
 - Interactive Data Analysis
-    - Leveraged PivotTables and PivotCharts for dynamic reporting.
+    - Used PivotTables and PivotCharts for dynamic reporting.
     - Integrated Timelines and Slicers for easy filtering of trends over time.
 - Sales Performance Visualization
-    - Created sales trend graphs, country-wise comparisons, customer segmentation, and loyalty program analysis for actionable insights.
+    - Created sales trend graphs, country-wise comparisons, customer segmentation, and loyalty program analysis.
 
 ### **Conclusion & Recommendations**
 
@@ -41,8 +41,6 @@ Key recommendations include:
 - Revisiting the loyalty program to increase participation.
 - Expanding light and medium roast offerings based on customer preferences.
 - Leveraging seasonal demand by promoting Liberica coffee during winter.
-
-By transforming raw sales data into a clear, interactive dashboard, this project demonstrates the power of data analytics in business decision-making. 
 
 ### Data Source:
 
