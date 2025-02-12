@@ -2,6 +2,8 @@
 ## Daily Grind Sales Insights
 ### An Interactive Microsoft Excel Dashboard
 
+    - [ETL Diagram](https://github.com/vxhernandez/behind_the_wheel/blob/main/data_pipeline_diagram.jpeg)
+
 ### **Project Summary**
 
 This project analyzes coffee sales data from 2019 to 2022 to uncover key business insights and trends. Using Excel PivotTables, PivotCharts, and interactive features like Slicers and Timelines, the dashboard provides a comprehensive view of sales performance across different countries, customer segments, roast types, and time periods.
