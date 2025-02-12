@@ -3,6 +3,7 @@
 ### An Interactive Microsoft Excel Dashboard
 
     - [Dashboard Image](https://github.com/vxhernandez/Excel/blob/main/Coffee_Bean_Sales_Analysis/daily_grind_sales_insights.png)
+    ![Alt text](https://github.com/vxhernandez/Excel/blob/main/Coffee_Bean_Sales_Analysis/daily_grind_sales_insights.png)
 
 ### **Project Summary**
 
