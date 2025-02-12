@@ -2,7 +2,7 @@
 ## Daily Grind Sales Insights
 ### An Interactive Microsoft Excel Dashboard
 
-    - [ETL Diagram](https://github.com/vxhernandez/behind_the_wheel/blob/main/data_pipeline_diagram.jpeg)
+    - [Dashboard Image](https://github.com/vxhernandez/Excel/blob/main/Coffee_Bean_Sales_Analysis/daily_grind_sales_insights.png))
 
 ### **Project Summary**
 
