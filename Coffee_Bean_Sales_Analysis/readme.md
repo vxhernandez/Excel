@@ -7,6 +7,10 @@
     
     ![Alt text](https://github.com/vxhernandez/Excel/blob/main/Coffee_Bean_Sales_Analysis/daily_grind_sales_insights.png)
 
+
+    
+   - <img src="https://github.com/vxhernandez/behind_the_wheel/assets/109702488/5b19266f-01a1-443a-a30a-f204ccdf1234" width="600" height="350">
+
 ### **Project Summary**
 
 This project analyzes coffee sales data from 2019 to 2022 to uncover key business insights and trends. Using Excel PivotTables, PivotCharts, and interactive features like Slicers and Timelines, the dashboard provides a comprehensive view of sales performance across different countries, customer segments, roast types, and time periods.
