@@ -1,4 +1,4 @@
-# Daily Grind Sales Insights Dashboard
+# Daily Grind Sales Insights
 
 ## An Interactive Microsoft Excel Dashboard
 ### **Project Summary**
