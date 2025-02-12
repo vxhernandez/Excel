@@ -9,7 +9,7 @@
 
 
     
- <img src="(https://github.com/vxhernandez/Excel/blob/main/Coffee_Bean_Sales_Analysis/daily_grind_sales_insights.png)" width="600" height="350">
+ <img src="https://github.com/vxhernandez/Excel/blob/main/Coffee_Bean_Sales_Analysis/daily_grind_sales_insights.png" width="600" height="350">
 
 ### **Project Summary**
 
